@@ -1,9 +1,7 @@
 Original NEURON implementation of model
 ============================
 
-Neuron files for the paper: Halnes, Augustinaite, Heggelund, Einevoll,
-Migliore (2011) A Multi-Compartment Model for Interneurons in the
-Dorsal Lateral Geniculate Nucleus.  PLoS Comp. Biol. 7: e1002160
+Neuron files for the paper: Halnes, Augustinaite, Heggelund, Einevoll, Migliore (2011) A Multi-Compartment Model for Interneurons in the Dorsal Lateral Geniculate Nucleus.  PLoS Comp. Biol. 7: e1002160
 
 
 The model was adapted to experimental Current-Clamp data from two
@@ -35,7 +33,7 @@ The user can change the amplitude of the injected current
 The 55pA default setting reproduces the fourth trace in figure 4 A1
 (when Init & Run is clicked):
 
-<img src="./screenshot1.jpg" alt="screenshot1">
+![](./screenshot1.jpg)
 
 P1: HP = -57
 Opens the model with Parameterization 1.
