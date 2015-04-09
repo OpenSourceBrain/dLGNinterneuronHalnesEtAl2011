@@ -1,4 +1,5 @@
-NEURON implementation of model
+Original NEURON implementation of model
+============================
 
 Neuron files for the paper: Halnes, Augustinaite, Heggelund, Einevoll,
 Migliore (2011) A Multi-Compartment Model for Interneurons in the
